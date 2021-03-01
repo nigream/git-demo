@@ -15,9 +15,11 @@ public class GitDemo {
         System.out.println("Hello Git Project!!!");
         System.out.println("Hello Git Project!!!");
         System.out.println("Hello Git Project!!!");
+        // dshjihgksu
     }
 
     public void test() {
         int i = 0;
+        System.out.println(i);
     }
 }

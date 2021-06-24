@@ -18,15 +18,13 @@ public class GitDemo {
         // dshjihgksu
     }
 
-    int a = 1;
-	int b = 2;
-	int c = 4;
-	int d = 4;
-	int e = 5;
+    public void test() {
+        int i = 0;
+        System.out.println(i);
+        System.out.println(i);
+    }
 	
-
-	// master修改
-
-	// dev1添加内容
-
+	// dev2
+	// fdhsj
+	// gfdhud
 }

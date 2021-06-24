@@ -23,7 +23,4 @@ public class GitDemo {
         System.out.println(i);
         System.out.println(i);
     }
-	
-    float b = 2.0f;
-    float c = 2.0f;
 }

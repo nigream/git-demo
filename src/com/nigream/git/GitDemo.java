@@ -10,9 +10,7 @@ public class GitDemo {
         System.out.println("Hello Git Project!!!");
         System.out.println("Hello Git Project!!!");
         System.out.println("Hello Git Project!!!");
-        System.out.println("Hello Git Project!!!");
-        System.out.println("Hello Git Project!!!");
-        System.out.println("Hello Git Project!!!");
+        // dev4的删除
         System.out.println("Hello Git Project!!!");
         System.out.println("Hello Git Project!!!");
         // dshjihgksu
@@ -20,6 +18,8 @@ public class GitDemo {
 
     public void test() {
         int i = 0;
+        // dev4的添加
+        double b = 9.00;
         System.out.println(i);
         System.out.println(i);
     }

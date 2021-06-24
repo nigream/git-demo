@@ -18,11 +18,11 @@ public class GitDemo {
         // dshjihgksu
     }
 
-    public void test() {
-        int i = 0;
-        System.out.println(i);
-        System.out.println(i);
-    }
+    int a = 1;
+	int b = 2;
+	int c = 4;
+	int d = 4;
+	int e = 5;
 	
 
 	// master修改

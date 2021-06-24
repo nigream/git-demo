@@ -19,4 +19,6 @@ public class GitDemo {
     public void hhh() {
         System.out.println("gdhsgjhd");
     }
+
+    public int a;
 }

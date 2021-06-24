@@ -18,9 +18,14 @@ public class GitDemo {
         // dshjihgksu
     }
 
-    public void test() {
-        int i = 0;
-        System.out.println(i);
-        System.out.println(i);
-    }
+    int a = 0;
+    int a = 0;int a = 0;
+    int a = 0;
+    int a = 0;
+    int a = 0;
+    int a = 0;
+
+    // weqyu
+	// fdfdgere
+	// gfdhud
 }

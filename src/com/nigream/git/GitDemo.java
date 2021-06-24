@@ -24,12 +24,6 @@ public class GitDemo {
         System.out.println(i);
     }
 	
-    int a = 0;
-    int a = 0;int a = 0;
-    int a = 0;
-    int a = 0;
-    int a = 0;
-    int a = 0;
-
-	// gfdhud
+    float b = 2.0f;
+    float c = 2.0f;
 }

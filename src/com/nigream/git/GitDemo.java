@@ -16,11 +16,7 @@ public class GitDemo {
         // dshjihgksu
     }
 
-    public void test() {
-        int i = 0;
-        // dev4的添加
-        double b = 9.00;
-        System.out.println(i);
-        System.out.println(i);
+    public void hhh() {
+        System.out.println("gdhsgjhd");
     }
 }
